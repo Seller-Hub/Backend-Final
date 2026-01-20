@@ -1,0 +1,15 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build nəticələri
+bin/
+obj/
+
+# Log faylları
+*.log
+
+# Temporary files
+*.tmp
